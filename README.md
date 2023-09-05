@@ -1,6 +1,5 @@
-![Github Banner](assets/github-banner.jpg)
 
-## Hi there my gorgeous friend <img src="assets/hello.gif" width="28px" alt="hi">
+## Hi there my gorgeous friend 
 
 I'm md.Jewel Mia, a Full Stack Web Application Developer. I Spend most of time coding outstanding projects.
 
