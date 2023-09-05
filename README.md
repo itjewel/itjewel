@@ -31,25 +31,11 @@ I'm md.Jewel Mia, a Full Stack Web Application Developer. I Spend most of time c
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://learnwithsumit.com" target="_blank">Learn with Sumit</a></td>
-      <td>Programming related Learning Platform for Bangladesh</td>
-      <td>100K+ active learners</td>
+      <td><a href="https://minicabit.com" target="_blank">Minicabit</a></td>
+      <td>Taxi-Cab Service in London</td>
+      <td>20 million+ Consumer Data Managed Already</td>
     </tr>
-    <tr>
-      <td><a href="https://marketplace.visualstudio.com/items?itemName=SumitSaha.learn-with-sumit-theme" target="_blank">Learn with Sumit Theme</a></td>
-      <td>Visual Studio Code Editor Theme</td>
-      <td>15K+ installs</td>
-    </tr>
-    <tr>
-      <td>Listenyzen</td>
-      <td>AI powered Social Media Customer Query Aggregator & Analytics SAAS tool</td>
-      <td>65+ clients</td>
-    </tr>
-    <tr>
-      <td><a href="https://analyzenbd.com" target="_blank">Analyzen</a></td>
-      <td>First ever & largest Digital Marketing Agency in Bangladesh</td>
-      <td>120+ clients</td>
-    </tr>
+    
     <tr>
       <td>Prism</td>
       <td>Complete Sales Automation & ERP Enterprise Solution for British American Tobacco Bangladesh</td>
