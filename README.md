@@ -35,7 +35,6 @@ I'm md.Jewel Mia, a Full Stack Web Application Developer. I Spend most of time c
       <td>Taxi-Cab Service in London</td>
       <td>20 million+ Consumer Data Managed Already</td>
     </tr>
-    
     <tr>
       <td>Prism</td>
       <td>Complete Sales Automation & ERP Enterprise Solution for British American Tobacco Bangladesh</td>
