@@ -31,7 +31,7 @@ I'm md.Jewel Mia, a Full Stack Web Application Developer. I Spend most of time c
   <tbody>
     <tr>
       <td><a href="https://minicabit.com" target="_blank">Minicabit</a></td>
-      <td>Taxi-Cab Service in London</td>
+      <td>Taxi-Cab Network Service in London</td>
       <td>20 million+ Consumer Data Managed Already</td>
     </tr>
   </tbody>
