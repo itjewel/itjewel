@@ -51,6 +51,32 @@ I'm md.Jewel Mia, a Full Stack Web Application Developer. I Spend most of time c
         (viii) Documented project specifications, architecture, and technical documentation.<br/>
       </td>
     </tr>
+     <tr>
+      <td><a href="https://bargainnshop.com" target="_blank">Bargainnshop</a></td>
+      <td> Multi-vendor eCommerce management system in Bangladesh</td>
+      <td>
+        (i) 1 million+ Consumer Data Managed Already<br/>
+        (ii) Developed and maintained web applications using Raw Javascript,Bootstrap, PHP,
+        Mysql, resulting in increased user engagement, reduced bounce rates, and reduced
+        error.<br/>
+        (iii) Led the development of BARGAIN SHOP Multi-Vendor eCommerce
+          Management, resulting in improved user experience, increased conversion rates,
+          and performance accuracy.
+          (iv) Collaborated with cross-functional teams, including designers and QA engineers,
+          to deliver high-quality software on time and within budget.- Implemented responsive web designs, ensuring seamless user experiences across
+          various devices and screen sizes.
+          (v) Designed, developed, and maintained RESTful APIs for BARGAIN SHOP
+          Multi-Vendor eCommerce Management.
+          (vi) Optimized database queries and data access patterns, resulting in a 95%
+          improvement in application performance.
+          (vii) Worked with the DevOps team to set up CI/CD pipelines, automating deployment
+          processes, and reducing release times.
+          (vii) Conducted code reviews, mentored junior developers, and promoted best
+          practices within the development team.
+        
+        
+      </td>
+    </tr>
   </tbody>
 </table>
 
