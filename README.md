@@ -44,11 +44,11 @@ I'm md.Jewel Mia, a Full Stack Web Application Developer. I Spend most of time c
         (iv) Implemented security best practices to protect user data and applications from
         potential threats.<br/>
         (v) Investigated and resolved bugs and issues reported by users or internal
-        stakeholders.
+        stakeholders.<br/>
         (vi) Participated in the planning and execution of software testing and quality
-        assurance processes.
-        (vii) Conducted regular code refactoring to improve maintainability and performance.
-        (viii) Documented project specifications, architecture, and technical documentation.
+        assurance processes.<br/>
+        (vii) Conducted regular code refactoring to improve maintainability and performance.<br/>
+        (viii) Documented project specifications, architecture, and technical documentation.<br/>
       
       </td>
     </tr>
