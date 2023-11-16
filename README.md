@@ -61,20 +61,18 @@ I'm md.Jewel Mia, a Full Stack Web Application Developer. I Spend most of time c
         error.<br/>
         (iii) Led the development of BARGAIN SHOP Multi-Vendor eCommerce
           Management, resulting in improved user experience, increased conversion rates,
-          and performance accuracy.
+          and performance accuracy.<br/>
           (iv) Collaborated with cross-functional teams, including designers and QA engineers,
           to deliver high-quality software on time and within budget.- Implemented responsive web designs, ensuring seamless user experiences across
-          various devices and screen sizes.
+          various devices and screen sizes.<br/>
           (v) Designed, developed, and maintained RESTful APIs for BARGAIN SHOP
-          Multi-Vendor eCommerce Management.
+          Multi-Vendor eCommerce Management.<br/>
           (vi) Optimized database queries and data access patterns, resulting in a 95%
-          improvement in application performance.
+          improvement in application performance.<br/>
           (vii) Worked with the DevOps team to set up CI/CD pipelines, automating deployment
-          processes, and reducing release times.
+          processes, and reducing release times.<br/>
           (vii) Conducted code reviews, mentored junior developers, and promoted best
-          practices within the development team.
-        
-        
+          practices within the development team.<br/>
       </td>
     </tr>
   </tbody>
