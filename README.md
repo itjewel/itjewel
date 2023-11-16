@@ -35,14 +35,14 @@ I'm md.Jewel Mia, a Full Stack Web Application Developer. I Spend most of time c
       <td><a href="https://minicabit.com" target="_blank">Minicabit</a></td>
       <td>Taxi-Cab Network Service in London</td>
       <td>
-        (i) 20 million+ Consumer Data Managed Already
+        (i) 20 million+ Consumer Data Managed Already<br/>
         (ii) Developed and maintained web applications using React, Tailwind, Express,
         Mysql, resulting in increased user engagement, reduced bounce rates, and reduced
-        error.
+        error.<br/>
         (iii) Collaborated with product managers to define technical requirements and project
-        scopes.
+        scopes.<br/>
         (iv) Implemented security best practices to protect user data and applications from
-        potential threats.
+        potential threats.<br/>
         (v) Investigated and resolved bugs and issues reported by users or internal
         stakeholders.
         (vi) Participated in the planning and execution of software testing and quality
