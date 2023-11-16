@@ -49,7 +49,6 @@ I'm md.Jewel Mia, a Full Stack Web Application Developer. I Spend most of time c
         assurance processes.<br/>
         (vii) Conducted regular code refactoring to improve maintainability and performance.<br/>
         (viii) Documented project specifications, architecture, and technical documentation.<br/>
-      
       </td>
     </tr>
   </tbody>
