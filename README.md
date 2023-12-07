@@ -52,7 +52,7 @@ I'm md.Jewel Mia, a Full Stack Web Application Developer. I Spend most of time c
       </td>
     </tr>
      <tr>
-      <td><a href="https://bargainnshop.com" target="_blank">Bargainnshop</a></td>
+      <td><a href="http://15.206.82.23/" target="_blank">Bargainnshop</a></td>
       <td> Multi-vendor eCommerce management system in Bangladesh</td>
       <td>
         (i) 1 million+ Consumer Data Managed Already<br/>
