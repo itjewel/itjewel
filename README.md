@@ -32,6 +32,21 @@ I'm md.Jewel Mia, a Full Stack Web Application Developer. I Spend most of time c
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://foodibd.com/" target="_blank">FoodiBD</a></td>
+      <td>Food Delivery Service Platform (TechnoNext)</td>
+      <td>
+        (i) Serving thousands of customers with fast, scalable food delivery web experience.<br/>
+        (ii) Working as a Senior Front-End Developer specializing in React, Next.js, TypeScript, and Tailwind CSS.<br/>
+        (iii) Developed dynamic, SEO-friendly user interfaces ensuring high performance and accessibility.<br/>
+        (iv) Integrated RESTful APIs and implemented client-side state management using Redux and React Context.<br/>
+        (v) Collaborated closely with backend developers and UI/UX designers for seamless feature integration.<br/>
+        (vi) Followed best practices in responsive design, code optimization, and reusable component structure.<br/>
+        (vii) Implemented analytics tracking, user feedback loops, and performance monitoring tools.<br/>
+        (viii) Participated in sprint planning, code reviews, and continuous delivery using Git and CI/CD pipelines.<br/>
+      </td>
+    </tr>
+
+    <tr>
       <td><a href="https://minicabit.com" target="_blank">Minicabit</a></td>
       <td>Taxi-Cab Network Service in London</td>
       <td>
