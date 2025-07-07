@@ -45,7 +45,6 @@ I'm md.Jewel Mia, a Full Stack Web Application Developer. I Spend most of time c
         (viii) Participated in sprint planning, code reviews, and continuous delivery using Git and CI/CD pipelines.<br/>
       </td>
     </tr>
-
     <tr>
       <td><a href="https://minicabit.com" target="_blank">Minicabit</a></td>
       <td>Taxi-Cab Network Service in London</td>
