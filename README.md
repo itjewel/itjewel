@@ -17,13 +17,14 @@ I'm md.Jewel Mia, a Full Stack Web Application Developer. I Spend most of time c
 [![Go Badge](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](#)
 [![PHP Badge](https://img.shields.io/badge/PHP-7378ab?style=for-the-badge&logo=php&logoColor=white)](#)
 [![React Badge](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=white)](#)
-[![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](#)
-[![MySQL Badge](https://img.shields.io/badge/MySQL-007ACC?style=for-the-badge&logo=mysql&logoColor=white)](#)
 [![gRPC Badge](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white)](#)
 [![RabbitMQ Badge](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)](#)
 [![DDA Badge](https://img.shields.io/badge/DDA-000000?style=for-the-badge&logoColor=white)](#)
 [![Microservice Badge](https://img.shields.io/badge/Microservice-00BFFF?style=for-the-badge&logoColor=white)](#)
 [![AWS Badge](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)](#)
+[![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](#)
+[![MySQL Badge](https://img.shields.io/badge/MySQL-007ACC?style=for-the-badge&logo=mysql&logoColor=white)](#)
+
 
 
 
