@@ -14,8 +14,8 @@ I'm md.Jewel Mia, a Full Stack Web Application Developer. I Spend most of time c
 #### Things I code with
 
 [![Go Badge](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](#)
-[![PHP Badge](https://img.shields.io/badge/PHP-7378ab?style=for-the-badge&logo=php&logoColor=white)](#)
 [![React Badge](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=white)](#)
+[![PHP Badge](https://img.shields.io/badge/PHP-7378ab?style=for-the-badge&logo=php&logoColor=white)](#)
 [![gRPC Badge](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white)](#)
 [![RabbitMQ Badge](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)](#)
 [![DDA Badge](https://img.shields.io/badge/DDA-000000?style=for-the-badge&logoColor=white)](#)
