@@ -1,7 +1,7 @@
 
 ## Hi there my gorgeous friend 
 
-I'm md.Jewel Mia, a Full Stack Web Application Developer. I Spend most of time coding outstanding projects.
+I'm md.Jewel Mia, a Senior Software Engineer. I Spend most of time coding outstanding projects.
 
 :coffee: &emsp;Connect with me!
 
